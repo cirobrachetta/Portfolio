@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a2bd7709.chunk.css",
+    "main.js": "/Portfolio/static/js/main.ee99687d.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.ee99687d.chunk.js.map",
+    "runtime~main.js": "/Portfolio/static/js/runtime~main.132fbc8c.js",
+    "runtime~main.js.map": "/Portfolio/static/js/runtime~main.132fbc8c.js.map",
+    "static/css/2.b0aab389.chunk.css": "/Portfolio/static/css/2.b0aab389.chunk.css",
+    "static/js/2.7af3abcb.chunk.js": "/Portfolio/static/js/2.7af3abcb.chunk.js",
+    "static/js/2.7af3abcb.chunk.js.map": "/Portfolio/static/js/2.7af3abcb.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.0064120bbb6ea1b0ca23add4730348f2.js": "/Portfolio/precache-manifest.0064120bbb6ea1b0ca23add4730348f2.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/2.b0aab389.chunk.css.map": "/Portfolio/static/css/2.b0aab389.chunk.css.map",
+    "static/css/main.a2bd7709.chunk.css.map": "/Portfolio/static/css/main.a2bd7709.chunk.css.map",
+    "static/media/ciro-perfil.jpg": "/Portfolio/static/media/ciro-perfil.b10640fe.jpg"
+  }
+}
