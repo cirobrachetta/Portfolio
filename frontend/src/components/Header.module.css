@@ -1,0 +1,10 @@
+.gradient {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  }
+  
+  .profilePic {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 3px solid white;
+  }
